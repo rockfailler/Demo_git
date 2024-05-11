@@ -14,4 +14,9 @@
 
 
 6th line
+<<<<<<< HEAD
 x
+=======
+
+8th line 
+>>>>>>> 4adad8f (8th line)
